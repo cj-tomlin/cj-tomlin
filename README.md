@@ -48,6 +48,8 @@ I'm currently seeking a graduate job in the tech industry. I'm excited to bring 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chris-tomlin-706b49222/).
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomlinc98&size_weight=0.5&count_weight=0.5)
+
 <!---
 tomlinc98/tomlinc98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
