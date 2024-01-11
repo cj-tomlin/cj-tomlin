@@ -11,6 +11,7 @@ I'm a Computer Science student at De Montfort University, currently in my third 
 ### Programming Languages
 
 - Python
+- JavaScript
 - Kotlin
 - C++
 - HTML/CSS
@@ -25,6 +26,7 @@ I'm a Computer Science student at De Montfort University, currently in my third 
 
 - Oracle SQL
 - SQLite
+- MongoDB
 
 ### Others
 
@@ -32,11 +34,11 @@ I'm a Computer Science student at De Montfort University, currently in my third 
 
 ## 🔭 I’m currently working on
 
-Finishing my degree with a focus on my areas of interest, which include web development, database design/management, and Android app development.
+Finishing my degree with a focus on my areas of interest, which include web development, database design/management, and software development.
 
 ## 🌱 I’m currently learning
 
-I'm constantly exploring new technologies and languages. Currently, I'm focusing on honing my web development skills and learning more about database management.
+I'm constantly exploring new technologies and languages. Currently, I'm focusing on learning JavaScript and honing my web development skills.
 
 ## 💼 What I'm looking for
 
