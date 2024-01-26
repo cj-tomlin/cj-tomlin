@@ -36,6 +36,8 @@ I'm a Computer Science student at De Montfort University, currently in my third 
 
 Finishing my degree with a focus on my areas of interest, which include web development, database design/management, and software development.
 
+- **Final Year Project**: Fullstack MERN Video Consultantcy App
+
 ## 🌱 I’m currently learning
 
 I'm constantly exploring new technologies and languages. Currently, I'm focusing on learning JavaScript and honing my web development skills.
