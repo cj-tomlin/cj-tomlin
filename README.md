@@ -21,6 +21,9 @@ I'm a Computer Science student at De Montfort University, currently in my third 
 - Flask
 - Django
 - Bootstrap
+- Node.js
+- Express.js
+- React
 
 ### Database Tools
 
