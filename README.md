@@ -1,59 +1,67 @@
 # Hello there, I'm Chris 👋
 
-I'm a Computer Science student at De Montfort University, currently in my third year of study. I have a passion for technology and love to explore different areas of it.
+I'm a recent **First-Class BSc Applied Computing graduate** from **De Montfort University**, passionate about technology and eager to apply my skills in real-world challenges.
 
 ## 🚀 Skills and Tools
 
-- 🌐 Web development
-- 📚 Database design and management
-- 📱 Android app development
+- 🌐 **Web Development**
+- 📚 **Database Design & Management**
+- 🔐 **Cybersecurity & Authentication**
+- 📱 **Mobile App Development** (Android)
 
-### Programming Languages
+### 💻 Programming Languages
 
-- Python
-- JavaScript
-- Kotlin
-- C++
-- HTML/CSS
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-purple?logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white)
 
-### Libraries and Frameworks
+### 🛠️ Libraries and Frameworks
 
-- Flask
-- Django
-- Bootstrap
-- Node.js
-- Express.js
-- React
+- **Backend**: Flask, Django, FastAPI, Node.js, Express.js
+- **Frontend**: React, Next.js, Bootstrap, Tailwind CSS
+- **DevOps**: Docker, GitHub Actions, CI/CD Pipelines
 
-### Database Tools
+### 🗃️ Databases
 
-- Oracle SQL
-- SQLite
-- MongoDB
+- MongoDB, SQLite, MySQL, Oracle SQL
 
-### Others
+### 🔗 Other Tools & Concepts
 
-- REST API
+- REST APIs, JWT Authentication, WebRTC/WebSockets
 
-## 🔭 I’m currently working on
+## 🔭 Recent Projects
 
-Finishing my degree with a focus on my areas of interest, which include web development, database design/management, and software development.
+- **[HealthConnect](#)** – A secure telemedicine app featuring real-time video conferencing, secure messaging, JWT authentication, and WebRTC integration.
+- **[Insight Unlocked](#)** – Enhanced security and user experience through robust authentication, Docker-based CI/CD, and modular design.
 
-- **Final Year Project**: Fullstack MERN Video Consultantcy App
+## 🎓 Dissertation
 
-## 🌱 I’m currently learning
+- Developed an innovative solution in the **digital healthcare** sector, focusing on usability and data security.
 
-I'm constantly exploring new technologies and languages. Currently, I'm focusing on learning JavaScript and honing my web development skills.
+## 🌱 Currently Learning
 
-## 💼 What I'm looking for
+- Deepening my expertise in cybersecurity best practices.
+- Expanding skills in DevOps tools and automation.
 
-I'm currently seeking a graduate job in the tech industry. I'm excited to bring my skills and passion to a dedicated team.
+## 💼 What I'm Looking For
 
-## 📫 How to reach me
+Actively seeking **graduate or entry-level roles** in tech, particularly in:
+- **DevOps & Infrastructure**
+- **Database Administration**
+- **Web Application Development**
+- **Cybersecurity**
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tomlinc/).
+I'm eager to contribute my skills to a collaborative and innovative team.
 
-![cj-tomlin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cj-tomlin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+## 📫 Get in Touch
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tomlinc/) or via [email](mailto:tomlinc@proton.me).
+
+---
+
+![Chris Tomlin's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cj-tomlin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!---
 cj-tomlin/cj-tomlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
