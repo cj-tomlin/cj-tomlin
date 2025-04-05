@@ -23,7 +23,7 @@ I'm a recent **First-Class BSc Applied Computing graduate** from **De Montfort U
 
 ### 🗃️ Databases
 
-- MongoDB, SQLite, MySQL, Oracle SQL
+- MongoDB, PostgreSQL, SQLite, MySQL, Oracle SQL
 
 ### 🔗 Other Tools & Concepts
 
