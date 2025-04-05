@@ -51,11 +51,11 @@ I'm currently seeking a graduate job in the tech industry. I'm excited to bring 
 
 ## 📫 How to reach me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chris-tomlin-706b49222/).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tomlinc/).
 
-![tomlinc98's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomlinc98&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![cj-tomlin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cj-tomlin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!---
-tomlinc98/tomlinc98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cj-tomlin/cj-tomlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
